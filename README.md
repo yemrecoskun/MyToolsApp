@@ -7,8 +7,9 @@
 - I developed MyTools app for iOS mobile app development.
 - I added the Light-Dark mode to the application.
 - The definition of MyTools application is to gather the tools that can be used in daily life under a single application for mobile users.
--I integrate every vehicle I designed into the application. So far I have added 5 tools. (Calculator, ToDo, The New, Tic-tac-Toe, Drawing)
-
+- I integrate every vehicle I designed into the application. So far I have added 5 tools. (Calculator, ToDo, The New, Tic-tac-Toe, Drawing)
+- <a href="#calculator">Calculator</a>
+  
 ## Architecture of the Project
 - MVVM architecture is used in the project.
 - Entity implementation has been made for database.
