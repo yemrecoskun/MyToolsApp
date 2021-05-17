@@ -21,18 +21,18 @@
 ### Calculator
 <p aling="center"> <img width="600px" src="https://github.com/yemrecoskun/MyToolsApp/blob/main/MyToolsApp.screenshot/calculator.png" /> </p>
 
-- A simple calculated that i developed for IOS mobile application development. 
+- A simple calculated that i developed for this application.
 
 ### To Do
 <p aling="center"> <img width="600px" src="https://github.com/yemrecoskun/MyToolsApp/blob/main/MyToolsApp.screenshot/todo.png" /> </p>
 
-- Todo list that i develeoped for IOS mobile application development.
+- Todo list that i developed for this application.
 - Data that is used in Todo list application is stored in Core Data(Entity Name: ETodo) and CRUD operations are added to the application.
 
 ### The News
 <p aling="center"> <img width="600px" src="https://github.com/yemrecoskun/MyToolsApp/blob/main/MyToolsApp.screenshot/thenews.png" /> </p>
 
-- A news page that i developed for IOS mobile application development
+- A news page that i developed for this application.
 - The data for this application comes from the web service.(https://newsapi.org/v2/top-headlines?country=tr&apiKey=KEY)
 
 
@@ -40,13 +40,13 @@
 ### Tic-tac-toe
 <p aling="center"> <img width="600px" src="https://github.com/yemrecoskun/MyToolsApp/blob/main/MyToolsApp.screenshot/tictactoe.png" /> </p>
 
-- A simple tic-tac-toe game that i developed for IOS mobile application development
+- A simple tic-tac-toe game that i developed for this application.
 
 
 ### Drawing
 <p aling="center"> <img width="600px" src="https://github.com/yemrecoskun/MyToolsApp/blob/main/MyToolsApp.screenshot/drawing.png" /> </p>
 
-- A drawing page that i developed for IOS mobile application development.
+- A drawing page that i developed for this application.
 - The drawing app containes stroke, thickness and color options and it also has Undo, Delete features.
 
 ## Used programs and languages
