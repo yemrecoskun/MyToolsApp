@@ -9,9 +9,9 @@
 - The definition of MyTools application is to gather the tools that can be used in daily life under a single application for mobile users.
 - I integrate every vehicle I designed into the application. So far I have added 5 tools. (Calculator, ToDo, The New, Tic-tac-Toe, Drawing)
   * <a href="#calculator">Calculator</a>
-  * <a href="##to-do">To Do</a>
+  * <a href="#to-do">To Do</a>
   * <a href="#the-news">The News</a>
-  * <a href="##tic-tac-toe">Tic-Tac-Toe</a>
+  * <a href="#tic-tac-toe">Tic-Tac-Toe</a>
   * <a href="#drawing">Drawing</a>
   
 ## Architecture of the Project
