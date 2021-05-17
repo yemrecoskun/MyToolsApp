@@ -4,10 +4,8 @@
 <p aling="center"> MyTools for iOS mobile. </p>
 
 ## Purpose of Our Project
-- I developed MyTools app for iOS mobile app development.
-- I added the Light-Dark mode to the application.
-- The definition of MyTools application is to gather the tools that can be used in daily life under a single application for mobile users.
-- I integrate every vehicle I designed into the application. So far I have added 5 tools. (Calculator, ToDo, The New, Tic-tac-Toe, Drawing)
+- I developed MyTools app to gather the tools that can be used in daily life under a single application for mobile users.
+- I integrated every tool i designed into the app and i added Light-Dark modes. So far I have added 5 tools;
   * <a href="#calculator">Calculator</a>
   * <a href="#to-do">To Do</a>
   * <a href="#the-news">The News</a>
@@ -23,19 +21,18 @@
 ### Calculator
 <p aling="center"> <img width="600px" src="https://github.com/yemrecoskun/MyToolsApp/blob/main/MyToolsApp.screenshot/calculator.png" /> </p>
 
-- I developed a simple calculator for iOS mobile application development.
+- A simple calculated that i developed for IOS mobile application development. 
 
 ### To Do
 <p aling="center"> <img width="600px" src="https://github.com/yemrecoskun/MyToolsApp/blob/main/MyToolsApp.screenshot/todo.png" /> </p>
 
-- I developed a todo for iOS mobile application development.
-- For this application, we store the data in Core Data. (EntityName: EToto)
-- In this application, the CRUD process is applied.
+- Todo list that i develeoped for IOS mobile application development.
+- Data that is used in Todo list application is stored in Core Data(Entity Name: ETodo) and CRUD operations are added to the application.
 
 ### The News
 <p aling="center"> <img width="600px" src="https://github.com/yemrecoskun/MyToolsApp/blob/main/MyToolsApp.screenshot/thenews.png" /> </p>
 
-- I developed a the news for iOS mobile application development.
+- A news page that i developed for IOS mobile application development
 - The data for this application comes from the web service.(https://newsapi.org/v2/top-headlines?country=tr&apiKey=KEY)
 
 
@@ -43,15 +40,14 @@
 ### Tic-tac-toe
 <p aling="center"> <img width="600px" src="https://github.com/yemrecoskun/MyToolsApp/blob/main/MyToolsApp.screenshot/tictactoe.png" /> </p>
 
-- I developed a simple tictactoe game for iOS mobile application development.
+- A simple tic-tac-toe game that i developed for IOS mobile application development
 
 
 ### Drawing
 <p aling="center"> <img width="600px" src="https://github.com/yemrecoskun/MyToolsApp/blob/main/MyToolsApp.screenshot/drawing.png" /> </p>
 
-- I developed a drawing for iOS mobile application development.
-- There are options such as stroke thickness and color.
-- The application has Undo, Delete feature.
+- A drawing page that i developed for IOS mobile application development.
+- The drawing app containes stroke, thickness and color options and it also has Undo, Delete features.
 
 ## Used programs and languages
 -Swift iOS Developer
